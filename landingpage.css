@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: rgb(148, 233, 229);
+    position: relative;
+}
+.box{
+    background-color: aliceblue;
+}
+
+
+h2{
+    font-size: 20 px;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color : rgb(39, 42, 46);
+    padding : 20px 50px 40px 20px;
+    background-color :aliceblue;
+      
+}
+.awal{
+    font-size:50px;
+    font-weight : bold;
+    font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aliceblue;
+    
+}
+.tengah {
+    font-size: 40px;
+    
+}
+.akhir {
+    font-size: 13px;
+    font-familiy : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color :rgb(56, 59, 61)
+    padding-button: 400px;
+}
+div{
+    background-color: crimson;
+}
